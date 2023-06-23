@@ -1,0 +1,17 @@
+
+
+
+
+
+h1 {
+    background: blue;
+    color: white;
+}
+
+.description {
+    border: 2px solid orange;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 20px;
+}
+
