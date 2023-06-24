@@ -6,3 +6,4 @@ def func(c):
 
 
 print(func('kayak'))
+

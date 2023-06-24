@@ -10,4 +10,10 @@ h1 {
     border-radius: 5px;
     font-size: 24px;
     padding: 20px;
+    text-shadow: green 1px 0 10px;
+}
+
+.new_paragraph {
+    font-size: 24px;
+    text-shadow: green 1px 0 10px;
 }
